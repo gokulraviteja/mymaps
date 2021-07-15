@@ -31,7 +31,7 @@
       /* font-size: larger; */
       font-weight: bolder;
       font-size: 50px;
-      font-family: fantasy , monospace;
+      /* font-family: fantasy , monospace; */
   }
 
   .maps-body{
@@ -57,7 +57,7 @@
 
   .maps-submit-button{
       font-size: larger;
-      width: 30%;
+      width: 33%;
       border-radius: 5px;
       color: white;
       background-color: green;
