@@ -54,6 +54,11 @@ class MapContainer extends Component {
         console.log("Any thing here props - " , this.props)
             return(
                 <div>
+
+                        <div>
+                            <button  className="maps-back-main-button"> <a href="/mymaps" className="maps-back-main"> Click on me i will take you back to Main Page </a> </button>
+                        </div>
+
                             <Map className="map" center={center} zoom={zoom} >
                             
                                 <TileLayer
