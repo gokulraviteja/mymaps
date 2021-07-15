@@ -57,8 +57,8 @@ class MyMaps extends Component {
                         {/* <span><img src={logo} className="ReactLogo-logo2" alt="logo" /></span>     */}
                     </div>
     
-                    <div>  <h2 className="maps-msg"> Sorry! I have exceeded my quota to process your requests , </h2> </div>
-                    <div>  <h2 className="maps-good-msg"> Still you can use the below entered points to check the output.   </h2> </div>
+                    <div>  <h4 className="maps-msg"> Sorry! I have exceeded my quota to process your requests , </h4> </div>
+                    <div>  <h4 className="maps-good-msg"> Still you can use the below entered points to check the output.   </h4> </div>
                     
     
                     <div className="maps-body">
