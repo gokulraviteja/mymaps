@@ -41,7 +41,7 @@
     align-items: center;
     justify-content: center;
     /* margin-top: 25%; */
-    padding-top: 10%;
+    padding-top: 5%;
     width: 100%;
 
   }
@@ -59,7 +59,8 @@
       font-size: larger;
       width: 30%;
       border-radius: 5px;
-      color: green;
+      color: white;
+      background-color: green;
   }
 
   .input-text{
@@ -69,3 +70,19 @@
   .map {
     height:100vh;
   } 
+
+
+  .maps-msg{
+    text-align: center;
+    padding-top: 2%;  
+    padding-bottom: 0%;
+    color: red;
+    font-family:fantasy , monospace;
+  }
+
+  .maps-good-msg{
+    text-align: center;
+    padding-bottom: 0%;
+    color: green;
+    font-family:fantasy , monospace;
+  }
